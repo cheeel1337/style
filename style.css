@@ -1,0 +1,33 @@
+body {
+    font-family: "Russo One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: #333333; /* Цвет основного текста */ 
+}
+
+h1, h2, h3 {
+    color: #345beb; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: "Russo One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
+
+p {
+    font-size: 140%;
+}
